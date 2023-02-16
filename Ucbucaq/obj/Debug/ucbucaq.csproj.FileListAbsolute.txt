@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Masaüstü\c#\ucbucaq\ucbucaq\obj\Debug\ucbucaq.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Masaüstü\c#\ucbucaq\ucbucaq\obj\Debug\ucbucaq.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Masaüstü\c#\ucbucaq\ucbucaq\obj\Debug\ucbucaq.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\c#\ucbucaq\ucbucaq\bin\Debug\ucbucaq.exe.config
+C:\Users\User\OneDrive\Masaüstü\c#\ucbucaq\ucbucaq\bin\Debug\ucbucaq.exe
+C:\Users\User\OneDrive\Masaüstü\c#\ucbucaq\ucbucaq\bin\Debug\ucbucaq.pdb
+C:\Users\User\OneDrive\Masaüstü\c#\ucbucaq\ucbucaq\obj\Debug\ucbucaq.exe
+C:\Users\User\OneDrive\Masaüstü\c#\ucbucaq\ucbucaq\obj\Debug\ucbucaq.pdb
+C:\Users\User\OneDrive\Masaüstü\ucbucaq\ucbucaq\obj\Debug\ucbucaq.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Masaüstü\ucbucaq\ucbucaq\obj\Debug\ucbucaq.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Masaüstü\ucbucaq\ucbucaq\obj\Debug\ucbucaq.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\ucbucaq\ucbucaq\obj\Debug\ucbucaq.exe
+C:\Users\User\OneDrive\Masaüstü\ucbucaq\ucbucaq\obj\Debug\ucbucaq.pdb
+C:\Users\User\OneDrive\Masaüstü\ucbucaq\ucbucaq\bin\Debug\ucbucaq.exe.config
+C:\Users\User\OneDrive\Masaüstü\ucbucaq\ucbucaq\bin\Debug\ucbucaq.exe
+C:\Users\User\OneDrive\Masaüstü\ucbucaq\ucbucaq\bin\Debug\ucbucaq.pdb

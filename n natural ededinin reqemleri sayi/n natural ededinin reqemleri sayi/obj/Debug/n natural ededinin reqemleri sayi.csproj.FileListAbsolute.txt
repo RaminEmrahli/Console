@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Masaüstü\c#\n natural ededinin reqemleri sayi\n natural ededinin reqemleri sayi\bin\Debug\n natural ededinin reqemleri sayi.exe.config
+C:\Users\User\OneDrive\Masaüstü\c#\n natural ededinin reqemleri sayi\n natural ededinin reqemleri sayi\bin\Debug\n natural ededinin reqemleri sayi.exe
+C:\Users\User\OneDrive\Masaüstü\c#\n natural ededinin reqemleri sayi\n natural ededinin reqemleri sayi\bin\Debug\n natural ededinin reqemleri sayi.pdb
+C:\Users\User\OneDrive\Masaüstü\c#\n natural ededinin reqemleri sayi\n natural ededinin reqemleri sayi\obj\Debug\n natural ededinin reqemleri sayi.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Masaüstü\c#\n natural ededinin reqemleri sayi\n natural ededinin reqemleri sayi\obj\Debug\n natural ededinin reqemleri sayi.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Masaüstü\c#\n natural ededinin reqemleri sayi\n natural ededinin reqemleri sayi\obj\Debug\n natural ededinin reqemleri sayi.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\c#\n natural ededinin reqemleri sayi\n natural ededinin reqemleri sayi\obj\Debug\n natural ededinin reqemleri sayi.exe
+C:\Users\User\OneDrive\Masaüstü\c#\n natural ededinin reqemleri sayi\n natural ededinin reqemleri sayi\obj\Debug\n natural ededinin reqemleri sayi.pdb

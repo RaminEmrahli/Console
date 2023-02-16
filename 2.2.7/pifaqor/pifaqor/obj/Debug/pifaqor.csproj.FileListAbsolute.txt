@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Masaüstü\c#\2.2.7\pifaqor\pifaqor\bin\Debug\pifaqor.exe.config
+C:\Users\User\OneDrive\Masaüstü\c#\2.2.7\pifaqor\pifaqor\bin\Debug\pifaqor.exe
+C:\Users\User\OneDrive\Masaüstü\c#\2.2.7\pifaqor\pifaqor\bin\Debug\pifaqor.pdb
+C:\Users\User\OneDrive\Masaüstü\c#\2.2.7\pifaqor\pifaqor\obj\Debug\pifaqor.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Masaüstü\c#\2.2.7\pifaqor\pifaqor\obj\Debug\pifaqor.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Masaüstü\c#\2.2.7\pifaqor\pifaqor\obj\Debug\pifaqor.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\c#\2.2.7\pifaqor\pifaqor\obj\Debug\pifaqor.exe
+C:\Users\User\OneDrive\Masaüstü\c#\2.2.7\pifaqor\pifaqor\obj\Debug\pifaqor.pdb

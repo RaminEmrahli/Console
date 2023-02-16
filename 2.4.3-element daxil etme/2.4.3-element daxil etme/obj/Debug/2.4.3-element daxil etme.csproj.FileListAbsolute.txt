@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Masaüstü\c#\2.4.3-element daxil etme\2.4.3-element daxil etme\bin\Debug\2.4.3-element daxil etme.exe.config
+C:\Users\User\OneDrive\Masaüstü\c#\2.4.3-element daxil etme\2.4.3-element daxil etme\bin\Debug\2.4.3-element daxil etme.exe
+C:\Users\User\OneDrive\Masaüstü\c#\2.4.3-element daxil etme\2.4.3-element daxil etme\bin\Debug\2.4.3-element daxil etme.pdb
+C:\Users\User\OneDrive\Masaüstü\c#\2.4.3-element daxil etme\2.4.3-element daxil etme\obj\Debug\2.4.3-element daxil etme.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Masaüstü\c#\2.4.3-element daxil etme\2.4.3-element daxil etme\obj\Debug\2.4.3-element daxil etme.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Masaüstü\c#\2.4.3-element daxil etme\2.4.3-element daxil etme\obj\Debug\2.4.3-element daxil etme.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\c#\2.4.3-element daxil etme\2.4.3-element daxil etme\obj\Debug\2.4.3-element daxil etme.exe
+C:\Users\User\OneDrive\Masaüstü\c#\2.4.3-element daxil etme\2.4.3-element daxil etme\obj\Debug\2.4.3-element daxil etme.pdb

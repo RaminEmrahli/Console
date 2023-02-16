@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Masaüstü\c#\A)\A)\bin\Debug\A).exe.config
+C:\Users\User\OneDrive\Masaüstü\c#\A)\A)\bin\Debug\A).exe
+C:\Users\User\OneDrive\Masaüstü\c#\A)\A)\bin\Debug\A).pdb
+C:\Users\User\OneDrive\Masaüstü\c#\A)\A)\obj\Debug\A).csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Masaüstü\c#\A)\A)\obj\Debug\A).csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Masaüstü\c#\A)\A)\obj\Debug\A).csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\c#\A)\A)\obj\Debug\A).exe
+C:\Users\User\OneDrive\Masaüstü\c#\A)\A)\obj\Debug\A).pdb

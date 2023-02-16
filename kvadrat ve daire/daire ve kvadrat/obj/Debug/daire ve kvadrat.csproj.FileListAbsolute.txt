@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Masaüstü\c#\daire ve kvadrat\daire ve kvadrat\bin\Debug\daire ve kvadrat.exe.config
+C:\Users\User\OneDrive\Masaüstü\c#\daire ve kvadrat\daire ve kvadrat\bin\Debug\daire ve kvadrat.exe
+C:\Users\User\OneDrive\Masaüstü\c#\daire ve kvadrat\daire ve kvadrat\bin\Debug\daire ve kvadrat.pdb
+C:\Users\User\OneDrive\Masaüstü\c#\daire ve kvadrat\daire ve kvadrat\obj\Debug\daire ve kvadrat.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Masaüstü\c#\daire ve kvadrat\daire ve kvadrat\obj\Debug\daire ve kvadrat.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Masaüstü\c#\daire ve kvadrat\daire ve kvadrat\obj\Debug\daire ve kvadrat.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\c#\daire ve kvadrat\daire ve kvadrat\obj\Debug\daire ve kvadrat.exe
+C:\Users\User\OneDrive\Masaüstü\c#\daire ve kvadrat\daire ve kvadrat\obj\Debug\daire ve kvadrat.pdb

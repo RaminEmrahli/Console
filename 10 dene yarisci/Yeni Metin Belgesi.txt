@@ -1,0 +1,24 @@
+ static double[,] AlgorithmForMultiplicationOfVectorAndMatrix( double[,] matrixA)
+        {
+            
+            double sum = 0;
+            int i;
+            int countOfEqualRowsAndColumns = matrixA.GetLength(1);
+            int rowsCountOfNewMatrix = matrixA.GetLength(0);
+            int colCountsOfNewMatrix = matrixB.GetLength(1);
+            double[,] newMatrix = new double[rowsCountOfNewMatrix, colCountsOfNewMatrix];
+            for (int k = 0; k < colCountsOfNewMatrix; k++)
+            {
+                for (i = 0; i < rowsCountOfNewMatrix; i++)
+                {
+                    for (int j = 0; j < countOfEqualRowsAndColumns; j++)
+                    {
+                        sum = sum + matrixA[i, j] * matrixB[j, k];
+                    }
+                    newMatrix[i, k] = sum;
+                    sum = 0;
+                }
+            }
+            Console.WriteLine("New Matrix --> ");
+            return newMatrix;
+        }

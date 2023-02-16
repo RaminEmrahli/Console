@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Masaüstü\c#\Polindrome\Polindrome\bin\Debug\Polindrome.exe.config
+C:\Users\User\OneDrive\Masaüstü\c#\Polindrome\Polindrome\bin\Debug\Polindrome.exe
+C:\Users\User\OneDrive\Masaüstü\c#\Polindrome\Polindrome\bin\Debug\Polindrome.pdb
+C:\Users\User\OneDrive\Masaüstü\c#\Polindrome\Polindrome\obj\Debug\Polindrome.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Masaüstü\c#\Polindrome\Polindrome\obj\Debug\Polindrome.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Masaüstü\c#\Polindrome\Polindrome\obj\Debug\Polindrome.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\c#\Polindrome\Polindrome\obj\Debug\Polindrome.exe
+C:\Users\User\OneDrive\Masaüstü\c#\Polindrome\Polindrome\obj\Debug\Polindrome.pdb

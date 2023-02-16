@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Masaüstü\c#\hasil\hasil\bin\Debug\hasil.exe.config
+C:\Users\User\OneDrive\Masaüstü\c#\hasil\hasil\bin\Debug\hasil.exe
+C:\Users\User\OneDrive\Masaüstü\c#\hasil\hasil\bin\Debug\hasil.pdb
+C:\Users\User\OneDrive\Masaüstü\c#\hasil\hasil\obj\Debug\hasil.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Masaüstü\c#\hasil\hasil\obj\Debug\hasil.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Masaüstü\c#\hasil\hasil\obj\Debug\hasil.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\c#\hasil\hasil\obj\Debug\hasil.exe
+C:\Users\User\OneDrive\Masaüstü\c#\hasil\hasil\obj\Debug\hasil.pdb

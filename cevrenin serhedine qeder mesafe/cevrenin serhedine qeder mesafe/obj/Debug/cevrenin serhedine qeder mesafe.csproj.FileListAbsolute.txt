@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Masaüstü\c#\cevrenin serhedine qeder mesafe\cevrenin serhedine qeder mesafe\bin\Debug\cevrenin serhedine qeder mesafe.exe.config
+C:\Users\User\OneDrive\Masaüstü\c#\cevrenin serhedine qeder mesafe\cevrenin serhedine qeder mesafe\bin\Debug\cevrenin serhedine qeder mesafe.exe
+C:\Users\User\OneDrive\Masaüstü\c#\cevrenin serhedine qeder mesafe\cevrenin serhedine qeder mesafe\bin\Debug\cevrenin serhedine qeder mesafe.pdb
+C:\Users\User\OneDrive\Masaüstü\c#\cevrenin serhedine qeder mesafe\cevrenin serhedine qeder mesafe\obj\Debug\cevrenin serhedine qeder mesafe.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Masaüstü\c#\cevrenin serhedine qeder mesafe\cevrenin serhedine qeder mesafe\obj\Debug\cevrenin serhedine qeder mesafe.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Masaüstü\c#\cevrenin serhedine qeder mesafe\cevrenin serhedine qeder mesafe\obj\Debug\cevrenin serhedine qeder mesafe.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\c#\cevrenin serhedine qeder mesafe\cevrenin serhedine qeder mesafe\obj\Debug\cevrenin serhedine qeder mesafe.exe
+C:\Users\User\OneDrive\Masaüstü\c#\cevrenin serhedine qeder mesafe\cevrenin serhedine qeder mesafe\obj\Debug\cevrenin serhedine qeder mesafe.pdb

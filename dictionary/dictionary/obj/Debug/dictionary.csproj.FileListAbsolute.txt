@@ -1,0 +1,8 @@
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\dictionary\dictionary\obj\Debug\dictionary.csproj.AssemblyReference.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\dictionary\dictionary\obj\Debug\dictionary.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\dictionary\dictionary\obj\Debug\dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\dictionary\dictionary\bin\Debug\dictionary.exe.config
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\dictionary\dictionary\bin\Debug\dictionary.exe
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\dictionary\dictionary\bin\Debug\dictionary.pdb
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\dictionary\dictionary\obj\Debug\dictionary.exe
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\dictionary\dictionary\obj\Debug\dictionary.pdb

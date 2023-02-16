@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Masaüstü\c#\azalan yoxsa artan sira\azalan yoxsa artan sira\bin\Debug\azalan yoxsa artan sira.exe.config
+C:\Users\User\OneDrive\Masaüstü\c#\azalan yoxsa artan sira\azalan yoxsa artan sira\bin\Debug\azalan yoxsa artan sira.exe
+C:\Users\User\OneDrive\Masaüstü\c#\azalan yoxsa artan sira\azalan yoxsa artan sira\bin\Debug\azalan yoxsa artan sira.pdb
+C:\Users\User\OneDrive\Masaüstü\c#\azalan yoxsa artan sira\azalan yoxsa artan sira\obj\Debug\azalan yoxsa artan sira.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Masaüstü\c#\azalan yoxsa artan sira\azalan yoxsa artan sira\obj\Debug\azalan yoxsa artan sira.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Masaüstü\c#\azalan yoxsa artan sira\azalan yoxsa artan sira\obj\Debug\azalan yoxsa artan sira.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\c#\azalan yoxsa artan sira\azalan yoxsa artan sira\obj\Debug\azalan yoxsa artan sira.exe
+C:\Users\User\OneDrive\Masaüstü\c#\azalan yoxsa artan sira\azalan yoxsa artan sira\obj\Debug\azalan yoxsa artan sira.pdb

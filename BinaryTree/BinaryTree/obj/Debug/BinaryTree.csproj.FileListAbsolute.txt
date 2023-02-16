@@ -1,0 +1,8 @@
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\BinaryTree\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\BinaryTree\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.AssemblyReference.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\BinaryTree\BinaryTree\obj\Debug\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\BinaryTree\BinaryTree\obj\Debug\BinaryTree.exe
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\BinaryTree\BinaryTree\obj\Debug\BinaryTree.pdb

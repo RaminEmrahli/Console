@@ -1,0 +1,28 @@
+C:\Users\User\OneDrive\Masaüstü\c#\cem\classes\classes\bin\Debug\classes.exe.config
+C:\Users\User\OneDrive\Masaüstü\c#\cem\classes\classes\bin\Debug\classes.exe
+C:\Users\User\OneDrive\Masaüstü\c#\cem\classes\classes\bin\Debug\classes.pdb
+C:\Users\User\OneDrive\Masaüstü\c#\cem\classes\classes\obj\Debug\classes.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Masaüstü\c#\cem\classes\classes\obj\Debug\classes.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Masaüstü\c#\cem\classes\classes\obj\Debug\classes.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\c#\cem\classes\classes\obj\Debug\classes.exe
+C:\Users\User\OneDrive\Masaüstü\c#\cem\classes\classes\obj\Debug\classes.pdb
+C:\Users\User\OneDrive\Masaüstü\c#\classes\classes\bin\Debug\classes.exe.config
+C:\Users\User\OneDrive\Masaüstü\c#\classes\classes\bin\Debug\classes.exe
+C:\Users\User\OneDrive\Masaüstü\c#\classes\classes\bin\Debug\classes.pdb
+C:\Users\User\OneDrive\Masaüstü\c#\classes\classes\obj\Debug\classes.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Masaüstü\c#\classes\classes\obj\Debug\classes.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Masaüstü\c#\classes\classes\obj\Debug\classes.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\c#\classes\classes\obj\Debug\classes.exe
+C:\Users\User\OneDrive\Masaüstü\c#\classes\classes\obj\Debug\classes.pdb
+C:\Users\User\OneDrive\Masaüstü\c#\classes\classes\bin\Debug\System.Threading.AccessControl.dll
+C:\Users\User\OneDrive\Masaüstü\c#\classes\classes\obj\Debug\classes.csproj.CopyComplete
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\classes\classes\bin\Debug\classes.exe.config
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\classes\classes\bin\Debug\classes.exe
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\classes\classes\bin\Debug\classes.pdb
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\classes\classes\bin\Debug\System.Threading.AccessControl.dll
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\classes\classes\obj\Debug\classes.csproj.AssemblyReference.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\classes\classes\obj\Debug\classes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\classes\classes\obj\Debug\classes.csproj.CoreCompileInputs.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\classes\classes\obj\Debug\classes.csproj.CopyComplete
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\classes\classes\obj\Debug\classes.exe
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\classes\classes\obj\Debug\classes.pdb

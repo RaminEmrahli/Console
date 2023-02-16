@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Masaüstü\c#\k ci hedd\k ci hedd\bin\Debug\k ci hedd.exe.config
+C:\Users\User\OneDrive\Masaüstü\c#\k ci hedd\k ci hedd\bin\Debug\k ci hedd.exe
+C:\Users\User\OneDrive\Masaüstü\c#\k ci hedd\k ci hedd\bin\Debug\k ci hedd.pdb
+C:\Users\User\OneDrive\Masaüstü\c#\k ci hedd\k ci hedd\obj\Debug\k ci hedd.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Masaüstü\c#\k ci hedd\k ci hedd\obj\Debug\k ci hedd.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Masaüstü\c#\k ci hedd\k ci hedd\obj\Debug\k ci hedd.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\c#\k ci hedd\k ci hedd\obj\Debug\k ci hedd.exe
+C:\Users\User\OneDrive\Masaüstü\c#\k ci hedd\k ci hedd\obj\Debug\k ci hedd.pdb

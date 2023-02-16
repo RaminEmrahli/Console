@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Masaüstü\c#\2.8.9\recursion\recursion\bin\Debug\recursion.exe.config
+C:\Users\User\OneDrive\Masaüstü\c#\2.8.9\recursion\recursion\bin\Debug\recursion.exe
+C:\Users\User\OneDrive\Masaüstü\c#\2.8.9\recursion\recursion\bin\Debug\recursion.pdb
+C:\Users\User\OneDrive\Masaüstü\c#\2.8.9\recursion\recursion\obj\Debug\recursion.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Masaüstü\c#\2.8.9\recursion\recursion\obj\Debug\recursion.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Masaüstü\c#\2.8.9\recursion\recursion\obj\Debug\recursion.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\c#\2.8.9\recursion\recursion\obj\Debug\recursion.exe
+C:\Users\User\OneDrive\Masaüstü\c#\2.8.9\recursion\recursion\obj\Debug\recursion.pdb
+C:\Users\User\OneDrive\Masaüstü\c#\recursion\recursion\bin\Debug\recursion.exe.config
+C:\Users\User\OneDrive\Masaüstü\c#\recursion\recursion\bin\Debug\recursion.exe
+C:\Users\User\OneDrive\Masaüstü\c#\recursion\recursion\bin\Debug\recursion.pdb
+C:\Users\User\OneDrive\Masaüstü\c#\recursion\recursion\obj\Debug\recursion.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Masaüstü\c#\recursion\recursion\obj\Debug\recursion.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Masaüstü\c#\recursion\recursion\obj\Debug\recursion.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\c#\recursion\recursion\obj\Debug\recursion.exe
+C:\Users\User\OneDrive\Masaüstü\c#\recursion\recursion\obj\Debug\recursion.pdb

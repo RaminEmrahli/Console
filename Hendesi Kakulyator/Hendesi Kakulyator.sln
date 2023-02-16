@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hendesi Kakulyator", "Hendesi Kakulyator\Hendesi Kakulyator.csproj", "{27CD3B62-D58F-4DE4-AECC-B1B3ED61DCA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27CD3B62-D58F-4DE4-AECC-B1B3ED61DCA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27CD3B62-D58F-4DE4-AECC-B1B3ED61DCA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27CD3B62-D58F-4DE4-AECC-B1B3ED61DCA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27CD3B62-D58F-4DE4-AECC-B1B3ED61DCA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32593C87-DEB0-4E45-9A05-A065AA3F49C4}
+	EndGlobalSection
+EndGlobal

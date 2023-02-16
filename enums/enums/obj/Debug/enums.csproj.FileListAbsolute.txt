@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Masaüstü\c#\enums\enums\bin\Debug\enums.exe.config
+C:\Users\User\OneDrive\Masaüstü\c#\enums\enums\bin\Debug\enums.exe
+C:\Users\User\OneDrive\Masaüstü\c#\enums\enums\bin\Debug\enums.pdb
+C:\Users\User\OneDrive\Masaüstü\c#\enums\enums\obj\Debug\enums.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Masaüstü\c#\enums\enums\obj\Debug\enums.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Masaüstü\c#\enums\enums\obj\Debug\enums.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\c#\enums\enums\obj\Debug\enums.exe
+C:\Users\User\OneDrive\Masaüstü\c#\enums\enums\obj\Debug\enums.pdb

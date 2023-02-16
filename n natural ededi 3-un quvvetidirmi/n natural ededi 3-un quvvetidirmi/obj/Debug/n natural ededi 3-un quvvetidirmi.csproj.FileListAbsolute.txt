@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Masaüstü\c#\n natural ededi 3-un quvvetidirmi\n natural ededi 3-un quvvetidirmi\bin\Debug\n natural ededi 3-un quvvetidirmi.exe.config
+C:\Users\User\OneDrive\Masaüstü\c#\n natural ededi 3-un quvvetidirmi\n natural ededi 3-un quvvetidirmi\bin\Debug\n natural ededi 3-un quvvetidirmi.exe
+C:\Users\User\OneDrive\Masaüstü\c#\n natural ededi 3-un quvvetidirmi\n natural ededi 3-un quvvetidirmi\bin\Debug\n natural ededi 3-un quvvetidirmi.pdb
+C:\Users\User\OneDrive\Masaüstü\c#\n natural ededi 3-un quvvetidirmi\n natural ededi 3-un quvvetidirmi\obj\Debug\n natural ededi 3-un quvvetidirmi.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Masaüstü\c#\n natural ededi 3-un quvvetidirmi\n natural ededi 3-un quvvetidirmi\obj\Debug\n natural ededi 3-un quvvetidirmi.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Masaüstü\c#\n natural ededi 3-un quvvetidirmi\n natural ededi 3-un quvvetidirmi\obj\Debug\n natural ededi 3-un quvvetidirmi.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\c#\n natural ededi 3-un quvvetidirmi\n natural ededi 3-un quvvetidirmi\obj\Debug\n natural ededi 3-un quvvetidirmi.exe
+C:\Users\User\OneDrive\Masaüstü\c#\n natural ededi 3-un quvvetidirmi\n natural ededi 3-un quvvetidirmi\obj\Debug\n natural ededi 3-un quvvetidirmi.pdb

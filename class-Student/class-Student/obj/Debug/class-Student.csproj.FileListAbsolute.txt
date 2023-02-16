@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Masaüstü\c#\class-Student\class-Student\bin\Debug\class-Student.exe.config
+C:\Users\User\OneDrive\Masaüstü\c#\class-Student\class-Student\bin\Debug\class-Student.exe
+C:\Users\User\OneDrive\Masaüstü\c#\class-Student\class-Student\bin\Debug\class-Student.pdb
+C:\Users\User\OneDrive\Masaüstü\c#\class-Student\class-Student\obj\Debug\class-Student.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Masaüstü\c#\class-Student\class-Student\obj\Debug\class-Student.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Masaüstü\c#\class-Student\class-Student\obj\Debug\class-Student.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\c#\class-Student\class-Student\obj\Debug\class-Student.exe
+C:\Users\User\OneDrive\Masaüstü\c#\class-Student\class-Student\obj\Debug\class-Student.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b1d4e697-49b4-430f-8b1a-fcf885b11c38": {
+      "ProjectGuid": "b1d4e697-49b4-430f-8b1a-fcf885b11c38",
+      "DisplayName": "Polindrome",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

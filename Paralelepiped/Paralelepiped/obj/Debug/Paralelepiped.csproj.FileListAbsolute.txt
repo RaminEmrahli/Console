@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Masaüstü\c#\Paralelepiped\Paralelepiped\bin\Debug\Paralelepiped.exe.config
+C:\Users\User\OneDrive\Masaüstü\c#\Paralelepiped\Paralelepiped\bin\Debug\Paralelepiped.exe
+C:\Users\User\OneDrive\Masaüstü\c#\Paralelepiped\Paralelepiped\bin\Debug\Paralelepiped.pdb
+C:\Users\User\OneDrive\Masaüstü\c#\Paralelepiped\Paralelepiped\obj\Debug\Paralelepiped.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Masaüstü\c#\Paralelepiped\Paralelepiped\obj\Debug\Paralelepiped.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Masaüstü\c#\Paralelepiped\Paralelepiped\obj\Debug\Paralelepiped.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\c#\Paralelepiped\Paralelepiped\obj\Debug\Paralelepiped.exe
+C:\Users\User\OneDrive\Masaüstü\c#\Paralelepiped\Paralelepiped\obj\Debug\Paralelepiped.pdb

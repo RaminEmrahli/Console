@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Masaüstü\c#\struct\struct\struct\bin\Debug\@struct.exe.config
+C:\Users\User\OneDrive\Masaüstü\c#\struct\struct\struct\bin\Debug\@struct.exe
+C:\Users\User\OneDrive\Masaüstü\c#\struct\struct\struct\bin\Debug\@struct.pdb
+C:\Users\User\OneDrive\Masaüstü\c#\struct\struct\struct\obj\Debug\struct.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Masaüstü\c#\struct\struct\struct\obj\Debug\struct.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Masaüstü\c#\struct\struct\struct\obj\Debug\struct.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\c#\struct\struct\struct\obj\Debug\@struct.exe
+C:\Users\User\OneDrive\Masaüstü\c#\struct\struct\struct\obj\Debug\@struct.pdb
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\struct\struct\struct\bin\Debug\@struct.exe.config
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\struct\struct\struct\bin\Debug\@struct.exe
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\struct\struct\struct\bin\Debug\@struct.pdb
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\struct\struct\struct\obj\Debug\struct.csproj.AssemblyReference.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\struct\struct\struct\obj\Debug\struct.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\struct\struct\struct\obj\Debug\struct.csproj.CoreCompileInputs.cache
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\struct\struct\struct\obj\Debug\@struct.exe
+C:\Users\Asus TUF\OneDrive\Masaüstü\c#\struct\struct\struct\obj\Debug\@struct.pdb

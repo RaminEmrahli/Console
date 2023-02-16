@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Masaüstü\c#\Class-Konus\Class-Konus\bin\Debug\Class-Konus.exe.config
+C:\Users\User\OneDrive\Masaüstü\c#\Class-Konus\Class-Konus\bin\Debug\Class-Konus.exe
+C:\Users\User\OneDrive\Masaüstü\c#\Class-Konus\Class-Konus\bin\Debug\Class-Konus.pdb
+C:\Users\User\OneDrive\Masaüstü\c#\Class-Konus\Class-Konus\obj\Debug\Class-Konus.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Masaüstü\c#\Class-Konus\Class-Konus\obj\Debug\Class-Konus.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Masaüstü\c#\Class-Konus\Class-Konus\obj\Debug\Class-Konus.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\c#\Class-Konus\Class-Konus\obj\Debug\Class-Konus.exe
+C:\Users\User\OneDrive\Masaüstü\c#\Class-Konus\Class-Konus\obj\Debug\Class-Konus.pdb

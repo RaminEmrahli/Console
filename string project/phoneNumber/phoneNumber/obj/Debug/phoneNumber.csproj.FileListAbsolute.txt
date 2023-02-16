@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Masaüstü\c#\string project\phoneNumber\phoneNumber\obj\Debug\phoneNumber.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Masaüstü\c#\string project\phoneNumber\phoneNumber\obj\Debug\phoneNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Masaüstü\c#\string project\phoneNumber\phoneNumber\obj\Debug\phoneNumber.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\c#\string project\phoneNumber\phoneNumber\bin\Debug\phoneNumber.exe.config
+C:\Users\User\OneDrive\Masaüstü\c#\string project\phoneNumber\phoneNumber\bin\Debug\phoneNumber.exe
+C:\Users\User\OneDrive\Masaüstü\c#\string project\phoneNumber\phoneNumber\bin\Debug\phoneNumber.pdb
+C:\Users\User\OneDrive\Masaüstü\c#\string project\phoneNumber\phoneNumber\obj\Debug\phoneNumber.exe
+C:\Users\User\OneDrive\Masaüstü\c#\string project\phoneNumber\phoneNumber\obj\Debug\phoneNumber.pdb
